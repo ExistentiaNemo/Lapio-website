@@ -1,3 +1,19 @@
 p {
-  background-color:red;
+  color:red;
+}
+
+h1 {
+  color: rgb(6, 18, 177);
+}
+
+#punainen {
+  color:red;
+}
+
+.tummanpunainen {
+  color: rgb(160, 6, 6);
+}
+
+#pinkki {
+  color: rgb(253, 87, 231);
 }

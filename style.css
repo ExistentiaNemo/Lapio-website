@@ -2,6 +2,14 @@ p {
   color:red;
 }
 
+.container {
+  height: 280px;
+  width: 180px;
+  padding: 10px;
+  margin: 20px;
+  background-color: red;
+}
+
 h1 {
   color: rgb(1, 37, 243);
 }
@@ -15,5 +23,5 @@ h1 {
 }
 
 #pinkki {
-  color: rgb(253, 87, 231);
+  color: rgb(5, 5, 5);
 }
